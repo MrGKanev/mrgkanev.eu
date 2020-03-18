@@ -21,7 +21,7 @@ dateform = "2 Jan, 2006"
 dateformfull = "2 Mon January 2006"
 cachebuster = true
 description = "Francesc's home page"
-# faviconfile = "img/fav.ico"
+faviconfile = "img/fav.ico"
 highlightjs = true
 lang = "en"
 footertext = ""
@@ -48,12 +48,12 @@ project1img     = "img/image1.png"
 project1title   = "Antiproxies"
 project1desc    = "Simple to implement API for saving your website an IP at a time."
 
-project2link    = "https://github.com/campoy/go-tooling-workshop"
+project2link    = "https://github.com/AntiProxies"
 project2img     = "img/image2.png"
 project2title   = "Antiproxies"
 project2desc    = "Simple to implement API for saving your website an IP at a time."
 
-project3link    = "https://github.com/campoy/embedmd"
+project3link    = "https://github.com/AntiProxies"
 project3img     = "img/image3.png"
 project3title   = "Antiproxies"
 project3desc    = "Simple to implement API for saving your website an IP at a time."

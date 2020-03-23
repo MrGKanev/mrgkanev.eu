@@ -1,5 +1,5 @@
 +++
-date = "2020-03-23T10:00:00-07:00"
+date = "2020-03-22T10:00:00-07:00"
 title = "Online Education"
 +++
 ## Why did I write this?

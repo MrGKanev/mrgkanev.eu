@@ -20,13 +20,13 @@ avatar = "img/profile.jpg"
 dateform = "2 Jan, 2006"
 dateformfull = "2 Mon January 2006"
 cachebuster = true
-description = "Francesc's home page"
+description = "Gabriel's home page"
 faviconfile = "img/favicon.ico"
 highlightjs = true
 lang = "en"
 footertext = ""
 googleAnalytics = "UA-161255919-1"
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "mrgkanev"
 
 
 

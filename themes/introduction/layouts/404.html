@@ -1,4 +1,10 @@
- {{ partial "header.html" . }}
+{{ partial "header.html" . }}
+
+<div class="section" id="top"> <!-- Where all the awesome begins -->
+
+{{ partial "navigation.html" . }}
+
+<!-- Everything below fades in three! -->
 
 <div class="section"><!-- Parent section -->
 
@@ -7,33 +13,26 @@
             <h1 class="title bold-title is-1">404</h1>
         </div>
     </div><!-- End hero 404 -->
-        
-    <div class="container fade-in two"><!-- Begin Nav bar -->
-            <hr>
-            <nav class="nav-center">
-                <a class="nav-item" href="/">Main</a> | 
-                <a class="nav-item" href="/#about">About</a> | 
-                {{ if .Site.Params.showprojects }}
-                <a class="nav-item" href="/#projects">Projects</a> | 
-                {{ end }}
-                {{ if .Site.Params.showallposts }}
-                <a href="/#blog">Blog</a> |
-                {{ else }}
-                <a href="/blog">Blog</a> |
-                {{ end }}
-                <a class="nav-item" href="/#contact">Contact</a> 
-                {{ if .Site.RSSLink }}
-                <a class="nav-item" href="{{ .Site.RSSLink }}"><i class="fa fa-rss"></i></a>
-                {{ end }}
-            </nav>
-            <hr>
-    </div><!-- End Nav bar -->
-
-    <div class="container markdown fade-in two"><!-- Begin blurb -->
-        Oops! Either you've found a bug (in which case, <a href="{{ .Site.Params.email }}">please tell me</a>) or you're just making things up. This page doesn't exist!
-    </div><!-- End blurb -->
-
-
-
+  
+<!-- Nice clean finish -->
 {{ partial "footer.html" . }}
-</div><!-- End parent section -->
+<!-- Footer done! -->
+</div><!-- End of fade in three section -->
+<!-- Where all the awesome ends. Aww. -->
+
+<!-- Cool scroll effect from this guy: https://gist.github.com/flesler/ -->
+<!-- Include jQuery from somewhere, must use version 1.8 or above -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- Include latest jquery.scrollTo, can download from https://github.com/flesler/jquery.scrollTo/releases -->
+<script type="application/javascript" src="//cdn.jsdelivr.net/jquery.scrollto/2.1.2/jquery.scrollTo.min.js"></script>
+<!-- Initialize the plugin, the contents of the script can be inlined here, of course -->
+<script>
+  // Bind to the click of all links with a #hash in the href
+  $('a[href^="#"]').click(function(e) {
+    // Prevent the jump and the #hash from appearing on the address bar
+    e.preventDefault();
+    // Scroll the window, stop any previous animation, stop on user manual scroll
+    // Check https://github.com/flesler/jquery.scrollTo for more customizability
+    $(window).stop(true).scrollTo(this.hash, {duration:500, interrupt:false});
+  });
+  </script>

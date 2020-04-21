@@ -1,5 +1,4 @@
-This is a very simple webpage for personal usage using [hugo](https://gohugo.io) and Netlify.
+### This repo holds the source code for my personal website
 
-Hosted on Netlify, it provides a simple way to display a list of links
-and redirect automatically based on its path.
-
+- Built with [Hugo](https://gohugo.io/) 🔥
+- Hosted on [Netlify](https://www.netlify.com/) 👽

@@ -32,14 +32,19 @@
                 <i class="fa fa-twitter"></i>
                 <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-pinterest" href="http://pinterest.com/pin/create/button/?url={{ .Permalink }}{{ if .Params.pinterestmedia }}&amp;media={{ .Site.BaseURL }}{{ .Params.pinterestmedia }}{{ end }}&amp;description={{ .Title | safeHTML}}"
-                onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
-                <i class="fa fa-pinterest"></i>
-                <span class="hidden">Pinterest</span>
-                </a>
                 <a class="icon-google-plus" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&summary=&source="
                 onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                 <i class="fa fa-linkedin"></i>
+                </a>
+                <a class="icon-pinterest" href="https://www.reddit.com/submit?url={{ .Permalink }}"
+                onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+                <i class="fab fa-reddit"></i>
+                <span class="hidden">Reddit</span>
+                </a>
+                <a class="icon-pinterest" href="https://news.ycombinator.com/submitlink?u={{ .Permalink }}"
+                onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+                <i class="fab fa-hacker-news-square"></i>
+                <span class="hidden">Hackernews</span>
                 </a>
                 </div>
             {{ end }}

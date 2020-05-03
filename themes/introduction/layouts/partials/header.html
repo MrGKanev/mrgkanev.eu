@@ -9,6 +9,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer">
 {{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
+{{ if .Site.Params.image }}<meta property="og:image" content="{{ .Site.Params.image }}"/>{{ end }}
+<meta property="og:title" content="{{ .Title }}"/>
+{{ if .Site.Params.description }}<meta property="og:description" content="{{ .Site.Params.description }}"/>{{ end }}
+<meta property="twitter:title" content="{{ .Title }}"/>
+{{ if .Site.Params.description }}<meta property="twitter:description" content="{{ .Site.Params.description }}"/>{{ end }}
+{{ if .Site.Params.image }}<meta property="twitter:image:src" content="{{ .Site.Params.image }}"/>{{ end }}
+{{ if .Site.Params.twitter }}<meta property="twitter:creator" content="@{{ .Site.Params.twitter }}"/>{{ end }}
 
 <base href="{{ .Site.BaseURL }}">
 <title>
@@ -71,8 +78,7 @@
     href="/{{ .Site.Params.faviconfile }}"
 {{ else }}
     href="/img/favicon.ico"
-{{ end }}
->
+{{ end }}>
 
 <!-- Google Analytics -->
 {{ template "_internal/google_analytics_async.html" . }}

@@ -20,13 +20,14 @@ avatar = "img/profile/small_profile.jpg"
 dateform = "2 Jan, 2006"
 dateformfull = "2 Mon January 2006"
 cachebuster = true
-description = "Gabriel's home page"
+description = "Gabriel's personal website. Here you can find all kind of projects, blog posts and everything you need to know about me."
 faviconfile = "img/favicon.ico"
 highlightjs = true
 lang = "en"
 footertext = ""
 googleAnalytics = "UA-161255919-1"
 disqusShortname = "mrgkanev"
+image = "img/profile/small_profile.png"
 
 
 
@@ -37,7 +38,6 @@ twitter       = "mrgkanev"
 github        = "mrgkanev"
 keybase       = "mrgkanev"
 codepen       = ""
-pinterest     = ""
 
 showblog        = false # Show Blog section on home page
 showallposts    = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page

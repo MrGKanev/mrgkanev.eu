@@ -1,38 +1,44 @@
-{{ partial "header.html" . }}
-
-<div class="section" id="top"> <!-- Where all the awesome begins -->
-
-{{ partial "navigation.html" . }}
-
-<!-- Everything below fades in three! -->
-
-<div class="section"><!-- Parent section -->
-
-    <div class="hero fade-in one"><!-- Begin hero 404 -->
-        <div class="hero-body has text centered">
-            <h1 class="title bold-title is-1">404 v1</h1>
-        </div>
-    </div><!-- End hero 404 -->
+<html>
+  <head><title>404 - Gabriel Kanev</title>
+    <link rel="stylesheet" href="/css/404.css">
+    <script src="/js/404.js"></script>
+  </head>
+<body>
+<div class="box">
+  <div class="box__ghost">
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    <div class="symbol"></div>
+    
+    <div class="box__ghost-container">
+      <div class="box__ghost-eyes">
+        <div class="box__eye-left"></div>
+        <div class="box__eye-right"></div>
+      </div>
+      <div class="box__ghost-bottom">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <div class="box__ghost-shadow"></div>
+  </div>
   
-<!-- Nice clean finish -->
-{{ partial "footer.html" . }}
-<!-- Footer done! -->
-</div><!-- End of fade in three section -->
-<!-- Where all the awesome ends. Aww. -->
-
-<!-- Cool scroll effect from this guy: https://gist.github.com/flesler/ -->
-<!-- Include jQuery from somewhere, must use version 1.8 or above -->
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<!-- Include latest jquery.scrollTo, can download from https://github.com/flesler/jquery.scrollTo/releases -->
-<script type="application/javascript" src="//cdn.jsdelivr.net/jquery.scrollto/2.1.2/jquery.scrollTo.min.js"></script>
-<!-- Initialize the plugin, the contents of the script can be inlined here, of course -->
-<script>
-  // Bind to the click of all links with a #hash in the href
-  $('a[href^="#"]').click(function(e) {
-    // Prevent the jump and the #hash from appearing on the address bar
-    e.preventDefault();
-    // Scroll the window, stop any previous animation, stop on user manual scroll
-    // Check https://github.com/flesler/jquery.scrollTo for more customizability
-    $(window).stop(true).scrollTo(this.hash, {duration:500, interrupt:false});
-  });
-  </script>
+  <div class="box__description">
+    <div class="box__description-container">
+      <div class="box__description-title">Whoops!</div>
+      <div class="box__description-text">It seems like we couldn't find the page you were looking for</div>
+    </div>
+    
+    <a href="https://mrgkanev.eu" target="_blank" class="box__button">Go back</a>
+    
+  </div>
+  
+</div>
+</body>
+</html>

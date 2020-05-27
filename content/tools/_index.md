@@ -25,3 +25,13 @@ Nickname : Monster (A big bad PC for everything)
 |Power supply  |`part`            |"Isn't this fun?"            |
 |Monitor 1  |`part`            |"Isn't this fun?"            |
 |Monitor 2  |`part`            |"Isn't this fun?"            |
+
+
+My Technical Stack
+
+I use the following programming languages, frameworks and tools:
+
+- [Wordpress](https://wordpress.org/)
+- [PHP](https://www.php.net/), [Laravel Framework](https://laravel.com/);
+- [Javascript](https://www.javascript.com/), [Vue.js](https://vuejs.org/);
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/), [Github](https://github.com/),[Bitbucket](https://bitbucket.com/), [Bash](https://www.gnu.org/software/bash/), [Docker](https://www.docker.com/pricing);

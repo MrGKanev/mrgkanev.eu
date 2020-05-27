@@ -1,7 +1,7 @@
 +++
 date = "2020-01-24T10:00:00-07:00"
 title = "Contact me - Gabriel Kanev"
-layout = "page"
+layout = "contact"
 +++
 I’m best contacted through e-mail, at [contact@mrgkanev.eu](mailto:contact@mrgkanev.eu) or on Twitter as [@mrgkanev](https://twitter.com/mrgkanev).
 

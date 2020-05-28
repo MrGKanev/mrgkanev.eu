@@ -5,7 +5,7 @@ layout = "page"
 +++
 
 Here you can find all the tools, setups and etc I use for may daily and not so daily tasks.  
-Part of the links here may help my coffene addiction so if you buy something : Thanks!
+Part of the links here may help my coffeine addiction so if you buy something : Thanks!
 
 Nickname : Monster (A big bad PC for everything)
 
@@ -25,7 +25,7 @@ Nickname : Monster (A big bad PC for everything)
 | Monitor 1       | `HP Z22i`                                                  | "Isn't this fun?"                                                   |
 | Monitor 2       | `Acer K242HL`                                              | "Isn't this fun?"                                                   |
 
-PS. When you build a system its good to have mostly the same hardware if you will have more than one part. Everything on this system is bouth with a budget in mind so its not 100% the best value for the buck or 100% compatable with each other.
+PS. When you build a system its good to have mostly the same hardware if you will have more than one part. Everything on this system is bough with a budget in mind so its not 100% the best value for the buck or 100% compatible with each other.
 
 My Technical Stack
 

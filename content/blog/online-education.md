@@ -11,7 +11,7 @@ It happened now what ?!? As you may know [Microsoft Teams went down](https://ars
 
 One hour after that I had a university class which went close to the same. The connection was horrible and most of the people were stuttering. It was better at least we were close to 40 people.
 
-### Food for tauth
+### Food for taught
 
 Even though I tutor on the side I don&#39;t have the excess budget for online classes or some fancy 100\$ subscription for something I will cancel 5 minutes after things come down. That is why all my suggestions are based on it. Here are something else you should consider as well:
 
@@ -26,21 +26,21 @@ The first solution is :
 
 **Youtube** - Yes, Youtube I&#39;m sure that you are staring at the screen in disbelief but it can really help you. You can make a &quot;private&quot; Livestream and save it for future purposes. Questions can be asked in the comment section which is easy to use and everybody knows how. (except me the first 3 times hosting)
 
-![Yotube](img/school/youtube.png)
+![Youtube](img/school/youtube.png)
 
-Make the stream &quot;unlisted&quot; and pich a schedule if you need one. Make sure your microphone and camera are working and you are all set. You can send the url to the people that need it later. It is a really simple and &quot;hacky&quot; way to do it. The only downside is it is a &quot;one way street&quot; and you can&#39;t make a discussion out of it.
+Make the stream &quot;unlisted&quot; and pick a schedule if you need one. Make sure your microphone and camera are working and you are all set. You can send the url to the people that need it later. It is a really simple and &quot;hacky&quot; way to do it. The only downside is it is a &quot;one way street&quot; and you can&#39;t make a discussion out of it.
 
 _Hint: with a bit of advanced work you can even show your screen and camera at once but it&#39;s a bit complicated and you can&#39;t do it in 5-10 mins before your class. OBS is a software just for that and it&#39;s free. (like free beer) It works on everything.(Even on Mac) (_[_Link to download OBS_](http://obsproject.com/)_)_
 
 _Here you can find_ [_helpful tutorials_](https://obsproject.com/forum/resources/how-to-record-with-obs-add-a-webcam-text-settings-explained-video.80/) _on how to set up OBS with the most important parts of it._
 
-**Zoom** - It is made for business, but why not use it for school? The free plan (to my knowledge) Has a 45 minutes sesion and a cap near 100 people. The only problem here is the time and that you need to install the software to use it. ([Link to download Zoom](https://zoom.us/download))
+**Zoom** - It is made for business, but why not use it for school? The free plan (to my knowledge) Has a 45 minutes session and a cap near 100 people. The only problem here is the time and that you need to install the software to use it. ([Link to download Zoom](https://zoom.us/download))
 
-![Zomm](img/school/zoom.png)
+![Zoom](img/school/zoom.png)
 
 **Update:** In the US a lot of schools tried to use it and things didn&#39;t go so smoothly. You can see it [here](https://9to5google.com/2020/03/18/zoom-android-app-negative-reviews-coronavirus/). This is why it is a good idea to have a backup plan in advance.
 
-**Discord** - Yep another tool which is made for something else but we will use it for education. The free version has it all. Screen share upto 720p for the free version and everybody can share everything. (screen, camera and microphone) They have a great blogpost about it and if you are interested I&#39;m sure that they can explain they&#39;re service better than me. ([Link](https://blog.discordapp.com/how-to-use-discord-for-your-classroom-8587bf78e6c4)) They have even updated the voice chat rooms to 50 people with video and screen sharing.
+**Discord** - Yep another tool which is made for something else but we will use it for education. The free version has it all. Screen share up-to 720p for the free version and everybody can share everything. (screen, camera and microphone) They have a great blog post about it and if you are interested I&#39;m sure that they can explain they&#39;re service better than me. ([Link](https://blog.discordapp.com/how-to-use-discord-for-your-classroom-8587bf78e6c4)) They have even updated the voice chat rooms to 50 people with video and screen sharing.
 _(Don&#39;t try to do it all at once I know there are going to be people like that.)_
 
 ![Discord](img/school/discord.png)
@@ -53,16 +53,16 @@ _(Don&#39;t try to do it all at once I know there are going to be people like th
 
 _This is the only part of my post that I will be really vicious like really.If you are a Sys Admin at a university or a &quot;really intuitive&quot; teacher don&#39;t read the next paragraph._ **You have been warned!**
 
-**Don&#39;t try** to be the university or school that will self-host everything (anything). I heard so much commotion around 5 universities and they&#39;re systems. I had the honer and user credentials to test 3 of them. I have a rather fast internet connection compared to a normal university student (dorm situation and etc.). Hopefully and if they have tested the softwares and servers it went great as most tests go but things change when &quot;real&quot; people start to use the &quot;classroom/chat/etc&quot; and it goes under real quick, real fast. After that the &quot;really intuitive&quot; teacher started to debug the issueS. Nothing was fixed in time and as always the cool moto which is similar to &quot;it is our first time...&quot; was sayed.
+**Don&#39;t try** to be the university or school that will self-host everything (anything). I heard so much commotion around 5 universities and they&#39;re systems. I had the honer and user credentials to test 3 of them. I have a rather fast internet connection compared to a normal university student (dorm situation and etc.). Hopefully and if they have tested the softwares and servers it went great as most tests go but things change when &quot;real&quot; people start to use the &quot;classroom/chat/etc&quot; and it goes under real quick, real fast. After that the &quot;really intuitive&quot; teacher started to debug the issueS. Nothing was fixed in time and as always the cool motto which is similar to &quot;it is our first time...&quot; was sayed.
 
-It is not heroid to host it by yourself, people aren&#39;t going to be proud of you. Even for a PR stunt this is **bad**. The only people who are ducked in this situation are the students. Not everybody can learn by themselves and there are professors which don&#39;t have classes for helping students out.(If they don't understand the material or can't work out they're assignments.) This situation isn&#39;t going to be over in just 2 weeks and people are going to forget about it.
+It is not heroic to host it by yourself, people aren&#39;t going to be proud of you. Even for a PR stunt this is **bad**. The only people who are ducked in this situation are the students. Not everybody can learn by themselves and there are professors which don&#39;t have classes for helping students out.(If they don't understand the material or can't work out they're assignments.) This situation isn&#39;t going to be over in just 2 weeks and people are going to forget about it.
 
-Update 2: Update from my last online class with another "cool" software. Half of the hardware of my colleagues (microphones and cameras) weren't recognised from the software. I'm not sure why but running it on my Manjaro system was an "adventure".
+Update 2: Update from my last online class with another "cool" software. Half of the hardware of my colleagues (microphones and cameras) weren't recognized from the software. I'm not sure why but running it on my Manjaro system was an "adventure".
 
 ### Final words:
 
 - Please prepare in advance and don&#39;t leave it for the last minute. Some of the ways are really easy to work with and can be done in 5-10 minutes but everything can happen and your software of choice can be down. (like to Microsoft)
 - Don&#39;t be a no-show - I still have university professors who make online classes and don&#39;t attend
-- Put some clothes on before the class - Some of the software asks for your permission to use the hardware (Microphone or Camera) and starts it every time without asking you. I had to see more than I wanted on multiple occasions. (it is only the second week, pleese !!!)
+- Put some clothes on before the class - Some of the software asks for your permission to use the hardware (Microphone or Camera) and starts it every time without asking you. I had to see more than I wanted on multiple occasions. (it is only the second week, please !!!)
 - **Understand that the situation is new to people.** Have some patience and if possible go into the class 15 mins early just so you know everything is working. Mute your microphone and camera, do your stuff and come back when the time comes.
 - Don&#39;t self host anything for more than 5 people. Even if it is not your first &quot;rodeo&quot; it can go bad fast. **In most cases the people trying to learn suffer from this.**

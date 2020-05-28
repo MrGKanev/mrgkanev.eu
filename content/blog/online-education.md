@@ -2,6 +2,7 @@
 date = "2020-03-22T10:00:00-07:00"
 title = "Online Education"
 +++
+
 ## Why did I write this?
 
 The last 2-3 weeks were really hectic for me. (And for you I&#39;m sure I watch the news.) In our country as in most of the countries in Europe schools are closed and people are advised to stay home. Me and my colleagues (university, online university and tutors teaching on the side) were all not 100% ready for this situation. As everybody we had something planned and we had tested some stuff just so we know if it happens we know what to do.
@@ -12,7 +13,7 @@ One hour after that I had a university class which went close to the same. The c
 
 ### Food for tauth
 
-Even though I tutor on the side I don&#39;t have the excess budget for online classes or some fancy 100$ subscription for something I will cancel 5 minutes after things come down. That is why all my suggestions are based on it. Here are something else you should consider as well:
+Even though I tutor on the side I don&#39;t have the excess budget for online classes or some fancy 100\$ subscription for something I will cancel 5 minutes after things come down. That is why all my suggestions are based on it. Here are something else you should consider as well:
 
 - The setup should be minimal or none. It doesn&#39;t matter if it was for the children or giving ideas to my university professors. (They didn&#39;t have a well made plan as well.)
 - Share your screen or at least some kind of a white board
@@ -33,23 +34,20 @@ _Hint: with a bit of advanced work you can even show your screen and camera at o
 
 _Here you can find_ [_helpful tutorials_](https://obsproject.com/forum/resources/how-to-record-with-obs-add-a-webcam-text-settings-explained-video.80/) _on how to set up OBS with the most important parts of it._
 
-
-
 **Zoom** - It is made for business, but why not use it for school? The free plan (to my knowledge) Has a 45 minutes sesion and a cap near 100 people. The only problem here is the time and that you need to install the software to use it. ([Link to download Zoom](https://zoom.us/download))
 
 ![Zomm](img/school/zoom.png)
 
 **Update:** In the US a lot of schools tried to use it and things didn&#39;t go so smoothly. You can see it [here](https://9to5google.com/2020/03/18/zoom-android-app-negative-reviews-coronavirus/). This is why it is a good idea to have a backup plan in advance.
- 
 
-**Discord** - Yep another tool which is made for something else but we will use it for education. The free version has it all. Screen share upto 720p for the free version and everybody can share everything. (screen, camera and microphone) They have a great blogpost about it and if you are interested I&#39;m sure that they can explain they&#39;re service better than me. ([Link](https://blog.discordapp.com/how-to-use-discord-for-your-classroom-8587bf78e6c4)) They have even updated the voice chat rooms to 50 people with video and screen sharing. 
+**Discord** - Yep another tool which is made for something else but we will use it for education. The free version has it all. Screen share upto 720p for the free version and everybody can share everything. (screen, camera and microphone) They have a great blogpost about it and if you are interested I&#39;m sure that they can explain they&#39;re service better than me. ([Link](https://blog.discordapp.com/how-to-use-discord-for-your-classroom-8587bf78e6c4)) They have even updated the voice chat rooms to 50 people with video and screen sharing.
 _(Don&#39;t try to do it all at once I know there are going to be people like that.)_
 
 ![Discord](img/school/discord.png)
 
 **Apple Keynote** - Before I start this is only for Apple people so if you don&#39;t have an half eaten apple in your hand or most of the people who you are going to tutor this is **NOT** for you. Like everything in the Apple&#39;s ecosystem it is easy to work and most Apple devices can watch it without any problem. You can invite up to 100 viewers. To watch, viewers need a web browser or the latest version of the Keynote app. They don&#39;t need iCloud accounts to watch presentations. Here is a helpful guide on how to use it if this is for you. ([Link](https://support.apple.com/en-us/HT206205))
 
- ![Apple Keynote](img/school/keynote.jpg)
+![Apple Keynote](img/school/keynote.jpg)
 
 ### And what NOT to use:
 

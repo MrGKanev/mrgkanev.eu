@@ -1,6 +1,6 @@
 baseURL = "https://mrgkanev.eu/"
 languageCode = "en-us"
-title = "Gabriel MrGKanev Kanev"
+title = "Gabriel MrGKanev Kanev personal website"
 theme = "introduction"
 
 PygmentsCodeFences = true

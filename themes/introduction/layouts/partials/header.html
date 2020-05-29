@@ -9,6 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer">
 {{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
+{{ if .Site.Params.description }}<meta name="keywords" content="{{ .Site.Params.keywords }}">{{ end }}
 {{ if .Site.Params.image }}<meta property="og:image" content="{{ .Site.Params.image }}"/>{{ end }}
 <meta property="og:title" content="{{ .Title }}"/>
 {{ if .Site.Params.description }}<meta property="og:description" content="{{ .Site.Params.description }}"/>{{ end }}

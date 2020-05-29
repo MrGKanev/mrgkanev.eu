@@ -21,6 +21,7 @@ dateform = "2 Jan, 2006"
 dateformfull = "2 Mon January 2006"
 cachebuster = true
 description = "Gabriel's personal website. Here you can find all kind of projects, blog posts and everything you need to know about me."
+keywords = "Gabriel Kanev, Габриел Кънев, Software Engineer, Open-Source Enthusiast, Car Guy, Габриел, Кънев"
 faviconfile = "img/favicon.ico"
 highlightjs = true
 lang = "en"

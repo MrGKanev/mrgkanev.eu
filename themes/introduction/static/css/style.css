@@ -2074,6 +2074,10 @@ button.button, input[type="submit"].button {
     font-size: 21px
 }
 
+.icon .fab {
+    font-size: 21px
+}
+
 .icon.is-small {
     height: 1rem;
     width: 1rem
@@ -6543,6 +6547,11 @@ img {
 }
 
 .social-icons .fa {
+    font-size: 2em;
+    padding: 0 10px
+}
+
+.social-icons .fab {
     font-size: 2em;
     padding: 0 10px
 }

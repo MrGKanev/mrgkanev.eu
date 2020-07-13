@@ -25,13 +25,36 @@ Nickname : Monster (A big bad PC for everything)
 | Monitor 1       | `HP Z22i`                                                  | "Isn't this fun?"                                                   |
 | Monitor 2       | `Acer K242HL`                                              | "Isn't this fun?"                                                   |
 
-PS. When you build a system its good to have mostly the same hardware if you will have more than one part. Everything on this system is bough with a budget in mind so its not 100% the best value for the buck or 100% compatible with each other.
-
-My Technical Stack
+### My Technical Stack
 
 I use the following programming languages, frameworks and tools:
 
 - [Wordpress](https://wordpress.org/)
-- [PHP](https://www.php.net/), [Laravel Framework](https://laravel.com/);
-- [Javascript](https://www.javascript.com/), [Vue.js](https://vuejs.org/);
-- [Microsoft Visual Studio Code](https://code.visualstudio.com/), [Github](https://github.com/),[Bitbucket](https://bitbucket.com/), [Bash](https://www.gnu.org/software/bash/), [Docker](https://www.docker.com/pricing);
+- [PHP](https://www.php.net/) and [Laravel Framework](https://laravel.com/)
+- [Javascript](https://www.javascript.com/) and [Vue.js](https://vuejs.org/)
+
+#### Tools
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+- [zsh + ohmyzsh](https://ohmyz.sh/#install)
+- [Docker](https://www.docker.com/pricing)
+
+
+
+
+#### Code hosting:
+
+* [Github](https://github.com/)
+
+* [Bitbucket](https://bitbucket.com/)
+
+
+#### Hosting:
+
+- [Hetzner](https://www.hetzner.com/cloud)
+- [Ploi.io](https://ploi.io/register?referrer=HADwOipuYMROtlyemVjE)
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+
+#### Productivity
+
+- [Google Calendar](https://calendar.google.com/)

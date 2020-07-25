@@ -14,3 +14,4 @@ Website url: [mrgkanev.eu](https://mrgkanev.eu)
 ### Hugo "extensions"
 
 - [hugo-social-metadata](https://github.com/msfjarvis/hugo-social-metadata)
+- [hugo-notice](https://github.com/martignoni/hugo-notice)

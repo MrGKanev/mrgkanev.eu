@@ -49,17 +49,17 @@ showprojects    = true # Show Projects section on home page
 
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
 project1link    = "https://github.com/AntiProxies"
-project1img     = "img/image1.png"
+project1img     = "img/image1.jpg"
 project1title   = "Antiproxies"
 project1desc    = "Simple to implement API for saving your website an IP at a time."
 
 project2link    = "https://github.com/AntiProxies"
-project2img     = "img/image2.png"
+project2img     = "img/image2.jpg"
 project2title   = "Antiproxies"
 project2desc    = "Simple to implement API for saving your website an IP at a time."
 
 project3link    = "https://github.com/AntiProxies"
-project3img     = "img/image3.png"
+project3img     = "img/image3.jpg"
 project3title   = "Antiproxies"
 project3desc    = "Simple to implement API for saving your website an IP at a time."
 

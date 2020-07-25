@@ -10,6 +10,25 @@
 publish = "public"
 command = "hugo --gc --minify"
 
+[[headers]]
+  for = "*.js" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "*.css" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "*.jpg" # jpg files too
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "*.png" # png files too
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+
+
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo"
 [context.split1.environment]

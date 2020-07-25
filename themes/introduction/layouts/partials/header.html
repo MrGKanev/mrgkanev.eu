@@ -66,6 +66,7 @@
 <!-- Google Analytics -->
 {{ template "_internal/google_analytics_async.html" . }}
 {{ partial "social_metadata.html" . }}
+{{ partial "site-schema.html" . }}
 <!-- RSS -->
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />

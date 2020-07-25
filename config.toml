@@ -1,7 +1,7 @@
 baseURL = "https://mrgkanev.eu/"
 languageCode = "en-us"
 title = "Gabriel MrGKanev Kanev personal website"
-theme = "introduction"
+theme = ["hugo-social-metadata","introduction"]
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"

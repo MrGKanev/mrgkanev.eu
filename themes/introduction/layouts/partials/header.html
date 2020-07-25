@@ -8,41 +8,9 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer">
-{{ if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
-{{ if .Site.Params.description }}<meta name="keywords" content="{{ .Site.Params.keywords }}">{{ end }}
-{{ if .Site.Params.image }}<meta property="og:image" content="{{ .Site.Params.image }}"/>{{ end }}
-<meta property="og:title" content="{{ .Title }}"/>
-{{ if .Site.Params.description }}<meta property="og:description" content="{{ .Site.Params.description }}"/>{{ end }}
-<meta property="twitter:title" content="{{ .Title }}"/>
-{{ if .Site.Params.description }}<meta property="twitter:description" content="{{ .Site.Params.description }}"/>{{ end }}
-{{ if .Site.Params.image }}<meta property="twitter:image:src" content="{{ .Site.Params.image }}"/>{{ end }}
-{{ if .Site.Params.twitter }}<meta property="twitter:creator" content="@{{ .Site.Params.twitter }}"/>{{ end }}
-
 <base href="{{ .Site.BaseURL }}">
-<title>
-{{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-{{ if eq $url "/" }}
-    {{ .Site.Title }}
-{{ else }}
-    {{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}
-{{ end }}
-</title>
 <link rel="canonical" href="{{ .Permalink }}">
 
-<!--MicroSchema-->
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org/",
-      "@type": "personal",
-      "name": "Gabriel MrGKanev Kanev personal website",
-      "author": {
-        "@type": "Person",
-        "name": "Gabriel kanev"
-      },
-      "datePublished": "2020-03-10",
-      "description": "Gabriel's personal website. Here you can find all kind of projects, blog posts and everything you need to know about me.",
-    }
-    </script>
 <!-- HTTPS -->
 
 {{ if .Site.Params.forcehttps }}
@@ -97,7 +65,7 @@
 
 <!-- Google Analytics -->
 {{ template "_internal/google_analytics_async.html" . }}
-
+{{ partial "social_metadata.html" . }}
 <!-- RSS -->
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />

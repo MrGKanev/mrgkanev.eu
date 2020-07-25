@@ -9,3 +9,8 @@ Website url: [mrgkanev.eu](https://mrgkanev.eu)
 - Design based on [Introduction](https://github.com/hivickylai/hugo-theme-introduction) . It is a "bit" modified.
 - Built with [Hugo](https://gohugo.io/) 🔥
 - Hosted on [Netlify](https://www.netlify.com/) 👽
+
+
+### Hugo "extensions"
+
+- [hugo-social-metadata](https://github.com/msfjarvis/hugo-social-metadata)

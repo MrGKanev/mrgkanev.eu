@@ -26,7 +26,7 @@ faviconfile = "img/favicon.ico"
 highlightjs = true
 lang = "en"
 footertext = ""
-googleAnalytics = "UA-161255919-1"
+googleTagmanager = "GTM-MHMLJZN"
 disqusShortname = "mrgkanev"
 image = "img/profile/small_profile.png"
 

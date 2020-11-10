@@ -109,6 +109,7 @@ export default function Hero() {
                     href="https://twitter.com/mrgkanev"
                     className="follow-button btn btn-primary shadow-lg"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Follow
                   </a>

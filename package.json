@@ -3,7 +3,7 @@
   "private": true,
   "description": "A portfolio website of Gabriel Kanev",
   "version": "0.0.1",
-  "author": Gabriel Kanev <contact@mrgkanev.eu>",
+  "author": "Gabriel Kanev <contact@mrgkanev.eu>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",

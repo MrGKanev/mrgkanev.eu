@@ -4,12 +4,12 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Gabriel Kanev - MrGKanev`,
-    description: `"Gabriel's personal website. Here you can find all kind of projects, blog posts and everything that interests me.`,
+    title: `mrgkanev`,
+    description: `Gabriel's personal website. Here you can find all kind of projects, blog posts and everything you need to know about me.`,
     author: `@mrgkanev`,
-    image: `https://raw.githubusercontent.com/MrGKanev/MrGKanev-s-blog/development/src/images/ogimage.png`,
+    image: `https://raw.githubusercontent.com/gmlunesa/gmlunesa.github.io/development/src/images/ogimage.png`,
     url: `https://mrgkanev.eu`,
-    siteUrl: `https://mrgkanev.eu`,
+    siteUrl: `https://www.mrgkanev.eu`,
   },
   plugins: [
     {

@@ -43,27 +43,22 @@ export default class Content extends Component {
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>NCR Corporation</h3>
+                        <h3>Bimbala</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faBriefcase}
                             className="mr-2"
                           />{" "}
-                          Software Engineer
+                          Co-Founder
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
-                          Jul 2018 - Present
+                          Aug 2020 - Present
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        ◆ Wrote high quality source code using C++, C# and
-                        Microsoft scripting and GUI tools to reprogram, update,
-                        and add new features to complex NCR system applications.
-                        <br />◆ Worked in a customer facing team, wherein
-                        interpersonal and communication skills are also utilized
-                        and refined.
+                      Bimbala is a SaaS helping companies upgrade their support team. Integration of roadmaps, knowledge boards and etc. made easy. Make your customers see you work for them and make them part of your business!
                       </div>
                     </div>
                   </div>
@@ -71,8 +66,8 @@ export default class Content extends Component {
                 <div className="subsection">
                   {" "}
                   <h2 className="mt-5">
-                    <span className="dot"></span>What do I{" "}
-                    <span className="word">know</span>?
+                    <span className="dot"></span>With what do I{" "}
+                    <span className="word">work</span>?
                   </h2>
                   <div className="row">
                     {/* First column */}
@@ -89,42 +84,21 @@ export default class Content extends Component {
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              C
+                              C / C++ / C #
                             </div>
                             <div className="card-item">
                               <FontAwesomeIcon
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              C++
+                              HTML / CSS / Javascript
                             </div>
                             <div className="card-item">
                               <FontAwesomeIcon
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              C#
-                            </div>
-                            <div className="card-item">
-                              <FontAwesomeIcon
-                                icon={faTerminal}
-                                className="mr-2 item-icon"
-                              />{" "}
-                              HTML
-                            </div>
-                            <div className="card-item">
-                              <FontAwesomeIcon
-                                icon={faTerminal}
-                                className="mr-2 item-icon"
-                              />{" "}
-                              Java
-                            </div>
-                            <div className="card-item">
-                              <FontAwesomeIcon
-                                icon={faTerminal}
-                                className="mr-2 item-icon"
-                              />{" "}
-                              Javascript
+                              PHP
                             </div>
                             <div className="card-item">
                               <FontAwesomeIcon
@@ -168,7 +142,7 @@ export default class Content extends Component {
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              Node
+                              Node / React / GatsbyJS / Hugo
                             </div>
 
                             <div className="card-item">
@@ -176,7 +150,7 @@ export default class Content extends Component {
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              React
+                              Laravel / Symfony / CodeIgniter 
                             </div>
 
                             <div className="card-item">
@@ -184,7 +158,7 @@ export default class Content extends Component {
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              GatsbyJS
+                              CMS Based : Wordpress / Joomla / Drupal
                             </div>
                           </div>
                         </div>
@@ -196,15 +170,14 @@ export default class Content extends Component {
                             <h3>Technologies</h3>
                           </div>
 
-                          <div className="card-text">
-                            <div className="card-item">
+                          <div className="card-item">
                               <FontAwesomeIcon
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              Machine Learning
+                              Web Development
                             </div>
-
+                          <div className="card-text">
                             <div className="card-item">
                               <FontAwesomeIcon
                                 icon={faTerminal}
@@ -218,23 +191,7 @@ export default class Content extends Component {
                                 icon={faTerminal}
                                 className="mr-2 item-icon"
                               />{" "}
-                              Robotic Process Automation
-                            </div>
-
-                            <div className="card-item">
-                              <FontAwesomeIcon
-                                icon={faTerminal}
-                                className="mr-2 item-icon"
-                              />{" "}
-                              Web Development
-                            </div>
-
-                            <div className="card-item">
-                              <FontAwesomeIcon
-                                icon={faTerminal}
-                                className="mr-2 item-icon"
-                              />{" "}
-                              Android Mobile Development
+                              Mobile Development
                             </div>
                           </div>
                         </div>
@@ -252,7 +209,7 @@ export default class Content extends Component {
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>University of the Philippines Cebu</h3>
+                        <h3>"Angel Kanchev" University of Ruse</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faGraduationCap}
@@ -265,15 +222,12 @@ export default class Content extends Component {
                             icon={faUserGraduate}
                             className="mr-2"
                           />{" "}
-                          Jun 2018
+                          Hopefully 2021
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        I earned my Bachelor's Degree in Computer Science in
-                        University of the Philippines, with Cum Laude honors.
-                        For my undergraduate thesis, I wrote a study called
-                        Video Game Recommender System using Recurrent LSTM.
+                        I still have not earned my Bachelor's Degree in Computer Science.
                       </div>
                     </div>
                   </div>

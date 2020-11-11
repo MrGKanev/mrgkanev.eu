@@ -27,18 +27,17 @@ export default function Hero() {
               <h1>
                 Hi. I'm
                 <br />
-                Goldy Mariz.
+                Gabo (Gabriel) Kanev
               </h1>
               <p>
-                It's nice to meet you. I write code for a living, and I am
-                currently open for collaborations!
-              </p>
+              
+              <br/></p>
               <Link
                 to="content"
                 className="hero-button btn btn-primary shadow-sm"
                 smooth={true}
               >
-                Get to know me
+                Learn stuff about me
               </Link>
             </div>
           </div>
@@ -48,7 +47,7 @@ export default function Hero() {
                 <div className="card-body">
                   <div className="icon">
                     <Image
-                      fileName="gabriel-pic.jpg"
+                      fileName="small_profile.jpg"
                       style={{ width: "5rem", height: "5rem" }}
                       alt=""
                     />
@@ -58,10 +57,10 @@ export default function Hero() {
                     <span role="img" aria-label="pin">
                       📍
                     </span>{" "}
-                    Cebu City <br />
+                    Bulgaria <br />
                   </h4>
                   <p className="card-text">
-                    software engineer. imaginary astronaut.
+                  Software Engineer, Open-Source Enthusiast, Car guy
                   </p>
                   <ul className="list-group list-group-horizontal">
                     <li className="list-group-item">
@@ -105,14 +104,13 @@ export default function Hero() {
                       </a>
                     </li>
                   </ul>
-                  <a
+                  {/* <a
                     href="https://twitter.com/mrgkanev"
                     className="follow-button btn btn-primary shadow-lg"
                     target="_blank"
-                    rel="noreferrer"
                   >
                     Follow
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>

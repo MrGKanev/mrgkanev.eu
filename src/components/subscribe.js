@@ -20,10 +20,9 @@ export default class SubscribeForm extends Component {
             <div className="col-lg-6 col-md-6 col-s-12">
               <div className="card shadow-sm">
                 <div className="card-body">
-                  <h2>Tech content to your inbox</h2>
+                  <h2>Enterprenuer content in your inbox</h2>
                   <p>
-                    Thank you for reading! Join my mailing list to be the first
-                    to read about my thoughts on the web.
+                    If you like what I talk about and want more you can subscribe here.
                   </p>
                   <form
                     onSubmit={this.submitForm}

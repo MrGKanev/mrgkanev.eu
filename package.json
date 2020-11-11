@@ -1,8 +1,8 @@
 {
   "name": "mrgkanev",
   "private": true,
-  "description": "A portfolio website of Gabriel Kanev",
-  "version": "0.0.1",
+  "description": "Gabriel's personal website.",
+  "version": "1.0.0",
   "author": "Gabriel Kanev <contact@mrgkanev.eu>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",

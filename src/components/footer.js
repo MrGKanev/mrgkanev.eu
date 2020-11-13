@@ -41,8 +41,9 @@ export default class Footer extends Component {
                         <FontAwesomeIcon icon={faArrowUp} />
                       </Link>
                     </li>
+                    <a href="https://github.com/MrGKanev/MrGKanev-s-blog" target="blank" rel="noopener">Source code</a> |
                     <li className="list-inline-item mr-3">
-                      &copy; {new Date().getFullYear()}.{" "}
+                        &copy; 2012-{new Date().getFullYear()}.{" "}
                       {data.site.siteMetadata.title}.
                     </li>
                     <li className="list-inline-item mr-4">

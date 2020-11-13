@@ -22,8 +22,7 @@ const ContactPage = () => (
           <div className="col-md-8">
             <h1>Projects++</h1>
             <p>
-              Hey there! Do you want to code and collaborate? Or do you have any
-              questions or comments? Send me a message! You can also reach me
+              Hey there! Send me a message! You can also reach me
               through the following links:
             </p>
             <ul className="list-group list-group-horizontal">

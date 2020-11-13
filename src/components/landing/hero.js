@@ -27,7 +27,7 @@ export default function Hero() {
               <h1>
                 Hi. I'm
                 <br />
-                Gabo (Gabriel) Kanev
+                Gabriel (Gabo) Kanev
               </h1>
               <p>
               
@@ -47,7 +47,7 @@ export default function Hero() {
                 <div className="card-body">
                   <div className="icon">
                     <Image
-                      fileName="small_profile.jpg"
+                      fileName="mini_profile.jpg"
                       style={{ width: "5rem", height: "5rem" }}
                       alt=""
                     />
@@ -57,20 +57,20 @@ export default function Hero() {
                     <span role="img" aria-label="pin">
                       📍
                     </span>{" "}
-                    Bulgaria <br />
+                    Ruse, Bulgaria <br />
                   </h4>
                   <p className="card-text">
                   Software Engineer, Open-Source Enthusiast, Car guy
                   </p>
                   <ul className="list-group list-group-horizontal">
-                    <li className="list-group-item">
+                  <li className="list-group-item">
                       <a
-                        href="mailto:contact@mrgkanev.eu"
+                        href="https://twitter.com/mrgkanev"
                         target="_blank"
                         rel="noreferrer"
-                        alt="Email button"
+                        alt="Twitter button"
                       >
-                        <FontAwesomeIcon icon={faEnvelope} />
+                        <FontAwesomeIcon icon={faTwitter} />
                       </a>
                     </li>
                     <li className="list-group-item">
@@ -95,12 +95,12 @@ export default function Hero() {
                     </li>
                     <li className="list-group-item">
                       <a
-                        href="https://twitter.com/mrgkanev"
+                        href="mailto:contact@mrgkanev.eu"
                         target="_blank"
                         rel="noreferrer"
-                        alt="Twitter button"
+                        alt="Email button"
                       >
-                        <FontAwesomeIcon icon={faTwitter} />
+                        <FontAwesomeIcon icon={faEnvelope} />
                       </a>
                     </li>
                   </ul>

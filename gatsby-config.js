@@ -23,7 +23,7 @@ module.exports = {
       resolve: "gatsby-plugin-google-tagmanager",
       options:
       {
-        id: "patka",
+        id: "GTM-MHMLJZN",
         includeInDevelopment: false,
       },
     },

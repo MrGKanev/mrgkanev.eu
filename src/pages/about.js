@@ -12,7 +12,7 @@ const AboutPage = ({ data }) => (
     {/* <Masthead /> */}
     <section className="about" id="top">
       <div className="container">
-        <div className="row mt-4 justify-content-center">
+        {/* <div className="row mt-4 justify-content-center">
           <div className="col-lg-6 col-sm-12 my-auto headline">
             <h1>Things I LOVE</h1>
             <Typing loop cursorClassName={"cursor"}>
@@ -29,7 +29,7 @@ const AboutPage = ({ data }) => (
                 <Typing.Cursor />
               </h2>
             </Typing>
-          </div>
+          </div> */}
         </div>
         <div className="row my-4 justify-content-center">
           <div className="col-lg-7 my-auto">

@@ -4,7 +4,7 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 import Image from "../components/image"
 
-import Typing from "react-typing-animation"
+// import Typing from "react-typing-animation"
 
 const AboutPage = ({ data }) => (
   <Layout>
@@ -29,8 +29,8 @@ const AboutPage = ({ data }) => (
                 <Typing.Cursor />
               </h2>
             </Typing>
-          </div> */}
-        </div>
+          </div>
+        </div> */}
         <div className="row my-4 justify-content-center">
           <div className="col-lg-7 my-auto">
             <div className="card shadow-sm">

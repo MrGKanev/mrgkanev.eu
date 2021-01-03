@@ -27,13 +27,13 @@ module.exports = {
         includeInDevelopment: false,
       },
     },
-    {
-      resolve: `gatsby-source-rss-feed`,
-      options: {
-        url: `https://mrgkanev.eu/rss.xml`,
-        name: `MrGKanev`,
-      }
-    },
+    // {
+    //   resolve: `gatsby-source-rss-feed`,
+    //   options: {
+    //     url: `https://mrgkanev.eu/rss.xml`,
+    //     name: `MrGKanev`,
+    //   }
+    // },
     {
       resolve: `gatsby-plugin-mdx`,
       options: {

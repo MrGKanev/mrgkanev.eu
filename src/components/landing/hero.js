@@ -28,10 +28,10 @@ export default function Hero() {
                 Hi. I'm
                 <br />
                 Gabriel (Gabo) Kanev
-              </h1>
+              </h1><br />
               <p>
               Hello, I'm a self-employed web developer (yep im that old), geek, and open-source enthusiast. Some of my projects are  @bimbalacom, @antiproxies and @mgknetcom.
-              <br/></p>
+              <br/><br /></p>
               <Link
                 to="content"
                 className="hero-button btn btn-primary shadow-sm"

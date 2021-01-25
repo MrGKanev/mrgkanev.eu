@@ -44,16 +44,16 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map(edge => {
-                return Object.assign({}, edge.node.frontmatter, {
-                  description: edge.node.excerpt,
-                  date: edge.node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                  custom_elements: [{ "content:encoded": edge.node.html }],
-                })
-              })
+            serialize(value) {
+              const rssMetadata = value.query.site.siteMetadata
+              return value.query.allPrismicPost.edges.map(edge => ({
+                description: edge.node.data.post_title.text,
+                
+                date: edge.node.first_publication_date,
+                url: rssMetadata.siteUrl + edge.node.uid,
+                guid: rssMetadata.siteUrl + edge.node.uid,
+                
+              }))
             },
             query: `
               {

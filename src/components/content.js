@@ -36,8 +36,8 @@ export default class Content extends Component {
                 {/* Job subsection */}
                 <div className="subsection">
                   <h2>
-                    <span className="dot"></span>What do I{" "}
-                    <span className="word">do</span>?
+                    <span className="dot"></span>I fill my time{" "}
+                    <span className="word">with</span>
                   </h2>
 
                   <div className="card">
@@ -66,8 +66,8 @@ export default class Content extends Component {
                 <div className="subsection">
                   {" "}
                   <h2 className="mt-5">
-                    <span className="dot"></span>With what do I{" "}
-                    <span className="word">work</span>?
+                    <span className="dot"></span>Things I work {" "}
+                    <span className="word">with</span>
                   </h2>
                   <div className="row">
                     {/* First column */}
@@ -79,13 +79,6 @@ export default class Content extends Component {
                           </div>
 
                           <div className="card-text">
-                            <div className="card-item">
-                              <FontAwesomeIcon
-                                icon={faTerminal}
-                                className="mr-2 item-icon"
-                              />{" "}
-                              C / C++ / C #
-                            </div>
                             <div className="card-item">
                               <FontAwesomeIcon
                                 icon={faTerminal}
@@ -106,6 +99,13 @@ export default class Content extends Component {
                                 className="mr-2 item-icon"
                               />{" "}
                               Python
+                            </div>
+                            <div className="card-item">
+                              <FontAwesomeIcon
+                                icon={faTerminal}
+                                className="mr-2 item-icon"
+                              />{" "}
+                              C / C++ / C #
                             </div>
                           </div>
                         </div>
@@ -202,7 +202,7 @@ export default class Content extends Component {
 
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>What did I{" "}
+                    <span className="dot"></span>What / Where did I{" "}
                     <span className="word">study</span>?
                   </h2>
 

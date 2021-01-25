@@ -16,11 +16,11 @@ export default function Hero() {
   return (
     <section className="hero" id="top">
       <div className="container h-100">
-        <div className="row h-100 justify-content-around">
+        <div className="row h-100 justify-content-around mb-5">
           <div className="col-lg-5 my-auto">
             <div className="hero-introduction">
               <h1>
-                <span className="wave" role="img" aria-label="Hand wave">
+                <span className="wave mr-2" role="img" aria-label="Hand wave">
                   👋
                 </span>
               </h1>
@@ -28,10 +28,10 @@ export default function Hero() {
                 Hi. I'm
                 <br />
                 Gabriel (Gabo) Kanev
-              </h1>
+              </h1><br />
               <p>
-              
-              <br/></p>
+              Hello, I'm a self-employed web developer (yep im that old), geek, and open-source enthusiast. Some of my projects are  @bimbalacom, @antiproxies and @mgknetcom.
+              <br/><br /></p>
               <Link
                 to="content"
                 className="hero-button btn btn-primary shadow-sm"

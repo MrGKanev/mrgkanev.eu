@@ -41,18 +41,18 @@ export default class Footer extends Component {
                         <FontAwesomeIcon icon={faArrowUp} />
                       </Link>
                     </li>
-                    <a href="https://github.com/MrGKanev/MrGKanev-s-blog" target="blank" rel="noopener">Source code</a> |
-                    <li className="list-inline-item mr-3">
-                        &copy; 2012-{new Date().getFullYear()}.{" "}
-                      {data.site.siteMetadata.title}.
+                    <a href="https://github.com/MrGKanev/MrGKanev-s-blog" target="blank" rel="noopener">Source code</a> | 
+                    <li className="list-inline-item  ml-2 mr-4">
+                      &copy; 2012-{new Date().getFullYear()}{" "} 
+                      {data.site.siteMetadata.title}.Eu
                     </li>
                     <li className="list-inline-item mr-4">
                       <a
-                        href="mailto:contact@mrgkanev.eu"
+                        href="https://twitter.com/mrgkanev"
                         target="_blank"
                         rel="noreferrer"
                       >
-                        <FontAwesomeIcon icon={faEnvelope} />
+                        <FontAwesomeIcon icon={faTwitter} />
                       </a>
                     </li>
                     <li className="list-inline-item mr-4">
@@ -66,20 +66,20 @@ export default class Footer extends Component {
                     </li>
                     <li className="list-inline-item mr-4">
                       <a
+                        href="mailto:contact@mrgkanev.eu"
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        <FontAwesomeIcon icon={faEnvelope} />
+                      </a>
+                    </li>
+                    <li className="list-inline-item mr-4">
+                      <a
                         href="https://linkedin.com/in/mrgkanev"
                         target="_blank"
                         rel="noreferrer"
                       >
                         <FontAwesomeIcon icon={faLinkedin} />
-                      </a>
-                    </li>
-                    <li className="list-inline-item mr-2">
-                      <a
-                        href="https://twitter.com/mrgkanev"
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        <FontAwesomeIcon icon={faTwitter} />
                       </a>
                     </li>
                   </ul>

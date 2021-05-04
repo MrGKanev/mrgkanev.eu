@@ -27,13 +27,66 @@ module.exports = {
         includeInDevelopment: false,
       },
     },
-    // {
-    //   resolve: `gatsby-source-rss-feed`,
-    //   options: {
-    //     url: `https://mrgkanev.eu/rss.xml`,
-    //     name: `MrGKanev`,
-    //   }
-    // },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize(value) {
+              const rssMetadata = value.query.site.siteMetadata
+              return value.query.allPrismicPost.edges.map(edge => ({
+                description: edge.node.data.post_title.text,
+
+                date: edge.node.first_publication_date,
+                url: rssMetadata.siteUrl + edge.node.uid,
+                guid: rssMetadata.siteUrl + edge.node.uid,
+
+              }))
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { slug }
+                      frontmatter {
+                        title
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "MrGKanev RSS Feed",
+            // optional configuration to insert feed reference in pages:
+            // if `string` is used, it will be used to create RegExp and then test if pathname of
+            // current page satisfied this regular expression;
+            // if not provided or `undefined`, all pages will have feed reference inserted
+            match: "^/",
+            // optional configuration to specify external rss feed, such as feedburner
+            // link: "https://feeds.feedburner.com/gatsby/blog",
+          },
+        ],
+      },
+    },
     {
       resolve: `gatsby-plugin-mdx`,
       options: {

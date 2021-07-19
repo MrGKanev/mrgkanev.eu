@@ -160,6 +160,13 @@ export default class Content extends Component {
                               />{" "}
                               CMS Based : Wordpress / Joomla / Drupal
                             </div>
+                            <div className="card-item">
+                              <FontAwesomeIcon
+                                icon={faTerminal}
+                                className="mr-2 item-icon"
+                              />{" "}
+                              E-Commerce Based : WooCommerce / Magento / Shopify / Prestashop
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -222,12 +229,12 @@ export default class Content extends Component {
                             icon={faUserGraduate}
                             className="mr-2"
                           />{" "}
-                          Hopefully 2021
+                          Hopefully 2022
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        I still have not earned my Bachelor's Degree in Computer Science.
+                        I still have not earned my Masters Degree in Computer Science.
                       </div>
                     </div>
                   </div>

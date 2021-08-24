@@ -73,6 +73,11 @@ export default class Header extends Component {
                     id="navbarResponsive"
                   >
                     <ul className="navbar-nav ml-auto">
+                    <li className="nav-item my-auto ml-2">
+                        <Link className="nav-link" to="/">
+                          Home
+                        </Link>
+                      </li>
                       <li className="nav-item my-auto ml-2">
                         <Link className="nav-link" to="/about">
                           About

@@ -4,8 +4,9 @@
 
 Website url: [mrgkanev.eu](https://mrgkanev.eu)
 
-## Developed with:
+## Developed with
 
-- Design based on [gatsby-starter-personal-portfolio](https://github.com/gmlunesa/gatsby-starter-personal-portfolio). It is a "bit" modified.
-- Built with [Gatsby](https://www.gatsbyjs.com/) 🔥
+- Design based on [astro-paper](https://github.com/satnaing/astro-paper). It is a "bit" modified. Lasy sync: 9e62b63
+- Built with [Astro](https://astro.build/) 🔥
 - Hosted on [Netlify](https://www.netlify.com/) 👽
+

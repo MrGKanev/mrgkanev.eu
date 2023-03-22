@@ -1,6 +1,6 @@
 ### Personal website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ae75d8d9-2bc5-41fa-8df3-94bc239c7c33/deploy-status)](https://app.netlify.com/sites/mrgkanev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfb4257b-5066-4414-8421-350a19a579b8/deploy-status)](https://app.netlify.com/sites/mrgkanev/deploys)
 
 Website url: [mrgkanev.eu](https://mrgkanev.eu)
 

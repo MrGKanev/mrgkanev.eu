@@ -10,3 +10,18 @@ I’m a self-employed web developer, geek, and open-source enthusiast. Currently
 Still, a university student fighting for my master’s degree in Computer Engineering, helping colleagues and teachers on my way.
 
 I have been working in the IT industry for over 10 years. From day one, I’ve always been passionate about IT, software development, IT security, the open web, and open-source software. I write about knowledge management, software development, entrepreneurship, bootstrap, management, leadership, and more.
+
+Sofware development frameworks:
+
+- Laravel / Symfony
+- Tailwind CSS / Bootstrap
+- Node / GatsbyJS / Hugo
+- CMS Based: WordPress / Drupal
+- E-Commerce Based: WooCommerce / Shopify
+
+Technologies:
+
+- Web Development
+- Docker
+- Mobile Development
+- Artificial Intelligence

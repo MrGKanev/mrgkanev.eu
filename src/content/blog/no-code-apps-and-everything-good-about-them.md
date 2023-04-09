@@ -8,7 +8,8 @@ ogImage: ""
 tags:
   - no-code
   - apps
-  - marketing
+  - development
+  - saas
 description: No code apps and everything good "about" them.
 ---
 

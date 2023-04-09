@@ -3,6 +3,8 @@ layout: ../layouts/UsesLayout.astro
 title: "Uses"
 ---
 
+**Heads up!** I actually use everything listed here. A few of the links on this page will send me a little money if you click them and buy the thing. I only recommend things I actually use and love. I promise!
+
 ## Hardware
 
 “Monster” – Gaming/Server:

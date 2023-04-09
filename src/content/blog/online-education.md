@@ -2,7 +2,7 @@
 author: Gabriel Kanev
 pubDatetime: 2020-10-30T16:00:00.000Z
 title: Online education
-postSlug: fresh-start
+postSlug: online-education
 featured: false
 ogImage: ""
 tags:

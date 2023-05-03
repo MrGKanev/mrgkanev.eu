@@ -1,7 +1,7 @@
 ---
 author: Gabriel Kanev
 pubDatetime: 2023-04-09T10:00:00.000Z
-title: No code apps and everything good "about" them
+title: No code apps and everything "good" about them.
 postSlug: no-code-apps-and-everything-good-about-them
 featured: true
 ogImage: ""
@@ -10,7 +10,7 @@ tags:
   - apps
   - development
   - saas
-description: No code apps and everything good "about" them.
+description: No code apps and everything "good" about them.
 ---
 
 No-code apps have become popular in recent years as a way for businesses to create apps and software solutions without needing to write code. While no-code platforms can be useful tools for prototyping and testing ideas, relying on them for long-term business solutions may not be the best idea. In this article, we'll explore why no-code apps may not be a good fit for your business in the long term.

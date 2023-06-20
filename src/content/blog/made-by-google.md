@@ -11,7 +11,6 @@ tags:
   - software
 description: Made by Google implicitly has the subscript until we dont give a fuck any more printed below.
 ---
-
 When reading [David's blog](https://world.hey.com/dhh/you-can-t-trust-google-f7d64064) I read something I was feeling for a long time. That's why I wanted to share it here as well.
 
 It will be a rant, so bear with me on it. I'm sure some of you have heard about [Killed by Google](https://killedbygoogle.com/). - It is a long list of projects which Google/Alfabet has killed in the past. It has only ~290 projects in it.

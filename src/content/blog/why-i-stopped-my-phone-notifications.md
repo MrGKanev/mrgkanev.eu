@@ -33,5 +33,5 @@ A little tutorial on how to disable notifications sounds in Messanger on Android
 
 1. Create a custom file that is empty - as my head on Monday morning - [or download my creation](https://mrgkanev.eu/download/no-notifications.wav)
 2. Put it in the "Notifications" folder which is on your device's ROM storage.
-2.1 You can copy it using an application that can work with your filesystem such as ["Files by Google"](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) or ["Total Commander - file manager"](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander). There are many more but I have used these for the past few years and they are great.
+* You can copy it using an application that can work with your filesystem such as ["Files by Google"](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) or ["Total Commander - file manager"](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander). There are many more but I have used these for the past few years and they are great.
 3. You need to select the file in Messenger. To do this, go to its settings > Notifications & Sounds > Notification Sound.

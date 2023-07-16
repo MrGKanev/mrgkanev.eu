@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Gabriel Kanev",
   desc: "Gabriel Kanev's personal website",
   title: "Gabriel Kanev",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "gabriel-kanev-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 5,
 };

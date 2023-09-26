@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://mrgkanev.eu",
   author: "Gabriel Kanev",
-  desc: "Gabriel Kanev's personal website",
+  desc: "Gabriel Kanev personal website",
   title: "Gabriel Kanev",
   ogImage: "gabriel-kanev-og.jpg",
   lightAndDarkMode: true,
@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Facebook",
-    href: "https://github.com/mrgkanev",
+    href: "https://github.comsatnaing/astro-pape/r",
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
   },

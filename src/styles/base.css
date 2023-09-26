@@ -114,6 +114,15 @@
   ::-webkit-scrollbar-thumb:hover {
     @apply bg-skin-card-muted;
   }
+
+  code,
+  blockquote {
+    word-wrap: break-word;
+  }
+
+  pre > code {
+    white-space: pre;
+  }
 }
 
 @layer components {

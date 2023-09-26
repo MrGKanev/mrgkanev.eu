@@ -3,7 +3,7 @@ export type Site = {
   author: string;
   desc: string;
   title: string;
-  ogImage: string;
+  ogImage?: string;
   lightAndDarkMode: boolean;
   postPerPage: number;
 };
@@ -20,10 +20,10 @@ export type SocialIcons = {
 };
 
 export type SocialMedia =
-  | "LinkedIn"
   | "Github"
   | "Facebook"
   | "Instagram"
+  | "LinkedIn"
   | "Mail"
   | "Twitter"
   | "Twitch"

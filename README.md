@@ -6,7 +6,6 @@ Website url: [mrgkanev.eu](https://mrgkanev.eu)
 
 ## Developed with
 
-- Design based on [astro-paper](https://github.com/satnaing/astro-paper). It is a "bit" modified. Lasy sync: 47b1b4e
+- Design based on [astro-paper](https://github.com/satnaing/astro-paper). It is a "bit" modified. Lasy sync: 79d569d
 - Built with [Astro](https://astro.build/) 🔥
 - Hosted on [Netlify](https://www.netlify.com/) 👽
-

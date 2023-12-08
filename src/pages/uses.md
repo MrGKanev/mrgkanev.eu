@@ -7,9 +7,9 @@ title: "Uses"
 
 ## Hardware
 
-“Monster” – Gaming/Server:
+“Monster” – Gaming:
 
-- OS – Windows 11 Pro / Proxmox – on diffirent drives
+- OS – Windows 11 Pro 
 - CPU – AMD Ryzen 5 1600 – It was a 1600x.
 - GPU – Radeon RX 580 Series (8 GB) –
 - RAM – 32 GB DDR4 3200 mhz
@@ -19,16 +19,23 @@ Peripherals:
 
 - Logitech MX Master 3
 - Logitech MX Keys
-- Google Pixel 4a
+- [Nothing Phone 2](https://nothing.tech/pages/phone-2)
 - [Trotten desk – Standing desk](https://www.ikea.com/us/en/p/trotten-desk-sit-stand-white-s99429578/)
 
 Apple MacBook Air M1 2021:
-- Memory: 16 GB
+- RAM: 16 GB
 - SSD: 256 GB
 
 Mac mini M1 2021:
-- Memory: 16 GB
+- RAM: 16 GB
 - SSD: 512 GB
+
+Minisforum EliteMini HM90 - Home server:
+- RAM: 32 GB
+- SSD 512 GB
+- CPU
+- OS: [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
+- - [TrueNas Scale](https://www.truenas.com/truenas-scale/)
 
 Software:
 - VSCode

@@ -10,7 +10,7 @@ title: "Uses"
 “Monster” – Gaming:
 
 - OS – Windows 11 Pro 
-- CPU – AMD Ryzen 5 1600 – It was a 1600x.
+- CPU – AMD Ryzen 5 1600 – Cores: 6 Threads: 12
 - GPU – Radeon RX 580 Series (8 GB) –
 - RAM – 32 GB DDR4 3200 mhz
 - A lot of random SSDs, NVMEs, and HDDs – from my old PC builder job
@@ -33,9 +33,14 @@ Mac mini M1 2021:
 Minisforum EliteMini HM90 - Home server:
 - RAM: 32 GB
 - SSD 512 GB
-- CPU
+- CPU AMD Ryzen 9 4900H - Cores: 8 Threads: 16
 - OS: [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/overview)
 - - [TrueNas Scale](https://www.truenas.com/truenas-scale/)
+
+Cables: [uGreen](https://loox.io/z/IlmzyLqVXQs)
+- [Ugreen USB C 7 in 1 Hub with 4K 60Hz HDMI]()
+- [Ugreen Aluminum USB 3.0 Lan Ethernet Adapter](https://eu.ugreen.com/products/ugreen-aluminum-usb-3-0-lan-ethernet-adapter?variant=40343584735315)
+- [Ugreen USB 3.0 4-Port Switch](https://eu.ugreen.com/products/ugreen-usb-3-0-4-port-switch?variant=40341907406931)
 
 Software:
 - VSCode

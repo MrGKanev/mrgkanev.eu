@@ -1,6 +1,6 @@
 ### Personal website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bfb4257b-5066-4414-8421-350a19a579b8/deploy-status)](https://app.netlify.com/sites/mrgkanev/deploys)
+This is my old website. Astro and Netlify are an awesome solution.
 
 Website url: [mrgkanev.eu](https://mrgkanev.eu)
 
